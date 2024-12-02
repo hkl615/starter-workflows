@@ -15,7 +15,9 @@
 			"internalConsoleOptions": "openOnSessionStart",
 			"env": {
 				"TS_NODE_IGNORE": "false"
-			}
+Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://Google.org.dont.co.in			}
     }
   ]
 }
